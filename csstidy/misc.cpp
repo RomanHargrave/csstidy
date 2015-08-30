@@ -18,6 +18,7 @@
 */
  
 #include "csspp_globals.hpp"
+#include <string.h>
 
 bool escaped(const string &istring, const int pos) 
 {
